@@ -101,7 +101,6 @@ button a{
 
    .recipeBox {
       flex-direction: column;
-      color: red;
       max-width: none;
       width: 100%;
    }
